@@ -6,3 +6,12 @@ This is a sipmle implementation of the [Creating your own dataset from Google Im
 
 ## Usage
 
+- First install the required dependencies:
+
+```bash
+$ pip install -r requirements.txt
+```
+
+- Then follow the instructions in the imageScraper.ipynb.
+
+- *As an example some .csv files in their respective directory were left in this repo, feel free to replace them with your own classes.*
